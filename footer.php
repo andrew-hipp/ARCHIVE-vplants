@@ -6,7 +6,7 @@
 				<h5 class="access">Footer Menu</h5>
 				<ul id="footmenu">
 					<!-- <li><a href="news/" title="New content.">News</a></li> -->
-					<li><a href="<?php echo $clientRoot; ?>/help/" accesskey="6" title="Help and user guide.">Help Guide</a></li>
+					<!-- <li><a href="<?php echo $clientRoot; ?>/help/" accesskey="6" title="Help and user guide.">Help Guide</a></li> -->
 					<li><a href="<?php echo $clientRoot; ?>/sitemap.php" accesskey="7" title="Table of contents.">Site Map</a></li>
 					<li><a href="<?php echo $clientRoot; ?>/about/contact.php" accesskey="8" title="Contact information.">Contact Us</a></li>
 					<li><a href="<?php echo $clientRoot; ?>/about/feedback.php" accesskey="9" title="Please provide feedback!">Feedback</a></li>
